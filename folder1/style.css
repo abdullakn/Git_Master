@@ -6,3 +6,9 @@ body {
   padding: 20px;
   line-height: 1.6;
 }
+
+
+h1 {
+  color: #00539f;
+  text-shadow: 2px 2px 2px #ccc;
+}
